@@ -1,0 +1,8 @@
+{
+  "name": "EdgeSage",
+  "short_name": "EdgeSage",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffff"
+}
